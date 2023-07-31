@@ -18,7 +18,7 @@ if (random <= 0 || random <= 15) {
 } else if (random <= 46 || random <= 59) {
     alert("4 Часть")
 } else {
-    console.log("");
+    console.log("лох");
 }
 
 
